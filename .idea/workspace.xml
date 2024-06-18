@@ -86,6 +86,11 @@
     "Python.Lab034.executor": "Run",
     "Python.Lab035.executor": "Run",
     "Python.Lab037.executor": "Run",
+    "Python.Lab038.executor": "Run",
+    "Python.Lab039.executor": "Run",
+    "Python.Lab040.executor": "Run",
+    "Python.Lab041.executor": "Run",
+    "Python.Lab042.executor": "Run",
     "Python.Lab06.executor": "Run",
     "Python.lab036.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -166,8 +171,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lab031" />
         <item itemvalue="Python.Lab023" />
+        <item itemvalue="Python.Lab031" />
         <item itemvalue="Python.Lab024" />
       </list>
     </recent_temporary>
@@ -260,6 +265,11 @@
           <url>file://$PROJECT_DIR$/13062024/Lab026.py</url>
           <line>4</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/18062024/Lab038.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
