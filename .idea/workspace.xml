@@ -119,8 +119,16 @@
     "Python.Lab069.executor": "Run",
     "Python.Lab070.executor": "Run",
     "Python.Lab071.executor": "Run",
+    "Python.Lab072.executor": "Run",
+    "Python.Lab073.executor": "Run",
+    "Python.Lab074.executor": "Run",
+    "Python.Lab075.executor": "Run",
+    "Python.Lab077.executor": "Run",
+    "Python.Lab078.executor": "Run",
+    "Python.Lab079.executor": "Run",
     "Python.Lab60.executor": "Run",
     "Python.lab036.executor": "Run",
+    "Python.lab076.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -221,8 +229,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lab061" />
         <item itemvalue="Python.Lab023" />
+        <item itemvalue="Python.Lab061" />
         <item itemvalue="Python.Lab031" />
         <item itemvalue="Python.Lab024" />
       </list>
@@ -419,6 +427,16 @@
           <url>file://$PROJECT_DIR$/27062024/Lab062.py</url>
           <line>4</line>
           <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03072024/Lab072.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03072024/lab076.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="20" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
