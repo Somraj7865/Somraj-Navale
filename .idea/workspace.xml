@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="33364048-86e2-4b4f-8d0c-e81631b20c76" name="Changes" comment="API Testing1">
-      <change afterPath="$PROJECT_DIR$/28072024/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/28072024/Integration/test_lab94.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/28072024/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/28072024/test_lab095.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/28072024/test_lab096.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/28072024/test_lab097.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/28072024/test_lab098.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/28072024/test_lab099.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/28072024/testdata.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09oct2024/test_svg.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,6 +66,7 @@
     "Python tests.Python tests in test_firstproject.py.executor": "Run",
     "Python tests.Python tests in test_lab095.py.executor": "Run",
     "Python tests.Python tests in test_lab89.py.executor": "Run",
+    "Python tests.Python tests in test_svg.py.executor": "Run",
     "Python.Lab001.executor": "Run",
     "Python.Lab002.executor": "Run",
     "Python.Lab003.executor": "Run",
