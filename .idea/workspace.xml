@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="33364048-86e2-4b4f-8d0c-e81631b20c76" name="Changes" comment="API Testing1">
-      <change afterPath="$PROJECT_DIR$/09oct2024/test_svg.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,6 +62,7 @@
     "Python tests.Python tests for test_lab91.test_get_single_request_by_id_negative.test_get_single_request_by_id_positive.executor": "Run",
     "Python tests.Python tests for test_lab94.test_i_need_confirm.executor": "Run",
     "Python tests.Python tests in test_Locators.py.executor": "Run",
+    "Python tests.Python tests in test_ddt.py.executor": "Run",
     "Python tests.Python tests in test_firstproject.py.executor": "Run",
     "Python tests.Python tests in test_lab095.py.executor": "Run",
     "Python tests.Python tests in test_lab89.py.executor": "Run",
@@ -158,12 +158,18 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Admin/PycharmProjects/pythonProject6/17oct2024",
     "settings.editor.selected.configurable": "preferences.editor"
   },
   "keyToStringList": {
     "ChangesTree.GroupingKeys": []
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\PycharmProjects\pythonProject6\17oct2024" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Python tests for test_lab096.test_put_request_postive1" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="pythonProject6" />
