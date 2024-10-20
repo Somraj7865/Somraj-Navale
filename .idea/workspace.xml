@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="33364048-86e2-4b4f-8d0c-e81631b20c76" name="Changes" comment="API Testing1">
+    <list default="true" id="33364048-86e2-4b4f-8d0c-e81631b20c76" name="Changes" comment="DDT project">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +62,11 @@
     "Python tests.Python tests for test_lab91.test_get_single_request_by_id_negative.test_get_single_request_by_id_positive.executor": "Run",
     "Python tests.Python tests for test_lab94.test_i_need_confirm.executor": "Run",
     "Python tests.Python tests in test_Locators.py.executor": "Run",
+    "Python tests.Python tests in test_alert..py.executor": "Run",
+    "Python tests.Python tests in test_alerts.py.executor": "Run",
     "Python tests.Python tests in test_ddt.py.executor": "Run",
+    "Python tests.Python tests in test_exception.py.executor": "Run",
+    "Python tests.Python tests in test_exception1.py.executor": "Run",
     "Python tests.Python tests in test_firstproject.py.executor": "Run",
     "Python tests.Python tests in test_lab095.py.executor": "Run",
     "Python tests.Python tests in test_lab89.py.executor": "Run",
@@ -360,7 +364,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722167215881</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="DDT project">
+      <option name="closed" value="true" />
+      <created>1729187974024</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1729187974024</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -371,7 +383,8 @@
     <MESSAGE value="Recursion" />
     <MESSAGE value="OOPS Concepts3" />
     <MESSAGE value="API Testing1" />
-    <option name="LAST_COMMIT_MESSAGE" value="API Testing1" />
+    <MESSAGE value="DDT project" />
+    <option name="LAST_COMMIT_MESSAGE" value="DDT project" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
