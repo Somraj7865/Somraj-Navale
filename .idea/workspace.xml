@@ -62,6 +62,10 @@
     "Python tests.Python tests for test_lab91.test_get_single_request_by_id_negative.test_get_single_request_by_id_positive.executor": "Run",
     "Python tests.Python tests for test_lab94.test_i_need_confirm.executor": "Run",
     "Python tests.Python tests in test_Locators.py.executor": "Run",
+    "Python tests.Python tests in test_actions1.py.executor": "Run",
+    "Python tests.Python tests in test_actions2.py.executor": "Run",
+    "Python tests.Python tests in test_actions3.py.executor": "Run",
+    "Python tests.Python tests in test_actionswindows.py.executor": "Run",
     "Python tests.Python tests in test_alert..py.executor": "Run",
     "Python tests.Python tests in test_alerts.py.executor": "Run",
     "Python tests.Python tests in test_ddt.py.executor": "Run",
@@ -71,6 +75,7 @@
     "Python tests.Python tests in test_lab095.py.executor": "Run",
     "Python tests.Python tests in test_lab89.py.executor": "Run",
     "Python tests.Python tests in test_svg.py.executor": "Run",
+    "Python tests.Python tests in test_windows.py.executor": "Run",
     "Python.Lab001.executor": "Run",
     "Python.Lab002.executor": "Run",
     "Python.Lab003.executor": "Run",
@@ -252,10 +257,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test_lab096.test_put_request_postive1" />
         <item itemvalue="Python tests.Python tests for test_lab099.Test_CRUD.test_update1" />
         <item itemvalue="Python tests.Python tests for test_lab099.Test_CRUD.test_update2" />
         <item itemvalue="Python tests.Python tests for test_lab098.test_update_req" />
-        <item itemvalue="Python tests.Python tests for test_lab096.test_put_request_postive1" />
         <item itemvalue="Python tests.Python tests for test_lab096.test_put_request_postive2" />
       </list>
     </recent_temporary>
